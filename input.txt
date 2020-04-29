@@ -1,0 +1,8 @@
+- Third year computer science student at Thapar institute of engineering and technology. 
+I’m taking core computer science subjects every semester which include operating systems, computer networks, C/C++, data structures and algorithms course along with Database management systems.
+
+- Developing Deep Learning models for Solving Vision Related Problems.
+
+- Currently taking courses in NLP, Computer Vision and Data Analytics.
+
+Looking for an internship in the field of Computer Vision, NLP or Predictive analytics.
